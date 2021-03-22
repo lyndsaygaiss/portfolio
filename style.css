@@ -1,0 +1,53 @@
+.box{
+  width: 600px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 50px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+}
+ul li {
+  background: none;
+  float: left;
+  font: bold 11px/16px arial,helvetica,sans-serif;
+  position: relative;
+  width: 100%;
+}
+ul li a{
+    display: block;
+    padding: 5px 4px;
+}
+.sox{
+  width: 50%;
+  background: rgba(1, 2, 3, 0.4);
+  text-align: center;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+}
+.blue{
+  background:#00f;
+}
+.box-img{
+  border-radius; 50%;
+  width: 300px;
+  height: 400px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+nav{
+  width: 750px;
+  margin: 0 auto;
+  list-style:none;
+}
+nav a{
+  display:block;
+  text-align:center;
+  width:150px
+  text-decoration:none;
+}
