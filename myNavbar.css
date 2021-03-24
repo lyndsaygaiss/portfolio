@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #B7CEEC;
+}
+
+.icon-bar {
+  background-color: #224cbd;
+}
+
+img { 
+  background: no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
